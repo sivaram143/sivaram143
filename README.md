@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @sivaram143
+- 👋 Hi, I’m @sivaram
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Microfrontend concepts
-- 📫 How to reach me @8019133783
+- 📫 How to reach me @9248321987
 
+**Back-End** : Node.js, Python
 
-Languages, Frameworks and Technologies
+**Front-End**: Angular, React
 
-Back-End : Node.js, Python
-Front-End : Angular, React
-Database : MongoDB, MySql
-Web Tech : HTML, CSS, AJAX, Jquery
-Other Tech : Kafka, Websockets
-Tools : Postman, Intellij Idea, VSCode, Linux
+**Database** : MongoDB, MySql
+
+**Web Tech** : HTML, CSS, Javascript, AJAX, Jquery
+
+**Cloud**  : AWS, GCP
+
+**Tools** : Git, postman, VSCode, Linux
